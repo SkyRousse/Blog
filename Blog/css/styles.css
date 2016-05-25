@@ -11,3 +11,7 @@ h3 {
   font-family: sans-serif;
   color: #A5132A;
 }
+
+.about-me span{
+  font-style: italic;
+}
