@@ -15,3 +15,13 @@ h3 {
 .about-me span{
   font-style: italic;
 }
+
+.background-light {
+  background-color: #fefefe;
+  color: #000;
+}
+
+.background-dark {
+  background-color: #000;
+  color: #fff;
+}
